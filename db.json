@@ -1,0 +1,520 @@
+{
+  "actors": [
+    {
+      "id": "1",
+      "movies": [
+        "Indiana Jones",
+        "The Star Wars",
+        "Patriot Games",
+        "Gentlemen of Fortune"
+      ],
+      "fullName": "Harrison Ford",
+      "birthYear": "1942",
+      "nationality": "USA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Harrison_Ford_by_Gage_Skidmore_3.jpg/274px-Harrison_Ford_by_Gage_Skidmore_3.jpg"
+    },
+    {
+      "id": "2",
+      "movies": [
+        "Pirates of the Caribbean",
+        "Sleepy Hollow",
+        "The Tourist",
+        "Alice in Wonderland"
+      ],
+      "fullName": "Johnny Depp",
+      "birthYear": "1963",
+      "nationality": "USA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Johnny_Depp_Deauville_2019.jpg/220px-Johnny_Depp_Deauville_2019.jpg"
+    },
+    {
+      "id": "3",
+      "movies": [
+        "Alien",
+        "Avatar",
+        "Aliens"
+      ],
+      "fullName": "Sigourney Weaver",
+      "birthYear": "1949",
+      "nationality": "USA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Sigourney_Weaver_by_Gage_Skidmore_4.jpg/250px-Sigourney_Weaver_by_Gage_Skidmore_4.jpg"
+    },
+    {
+      "id": "4",
+      "movies": [
+        "The Matrix",
+        "John Wick",
+        "Speed"
+      ],
+      "fullName": "Keanu Reeves",
+      "birthYear": "1964",
+      "nationality": "Canada",
+      "image": "https://images.uncyclomedia.co/desencyclopedie/fr/thumb/9/93/KeanuR4.jpg/250px-KeanuR4.jpg"
+    },
+    {
+      "id": "5",
+      "movies": [
+        "Murder on the Orient Express",
+        "Death on the Nile",
+        "Branagh Theatre Live: The Entertainer"
+      ],
+      "fullName": "Kenneth Branagh",
+      "birthYear": "1960",
+      "nationality": "UK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kenneth_Branagh_at_diff_2015.jpg/250px-Kenneth_Branagh_at_diff_2015.jpg"
+    },
+    {
+      "id": "6",
+      "movies": [
+        "The Godfather",
+        "Scarface",
+        "Scent of a Woman"
+      ],
+      "fullName": "Al Pacino",
+      "birthYear": "1940",
+      "nationality": "USA",
+      "image": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/55825/square_thumb%402x.jpg"
+    },
+    {
+      "id": "7",
+      "movies": [
+        "Titanic",
+        "Inception",
+        "The Revenant"
+      ],
+      "fullName": "Leonardo DiCaprio",
+      "birthYear": "1974",
+      "nationality": "USA",
+      "image": "https://i.pinimg.com/474x/14/36/b0/1436b013ddbf4dacb9dae13b1dd5a832.jpg"
+    },
+    {
+      "id": "8",
+      "movies": [
+        "The Lord of the Rings",
+        "X-Men",
+        "The Hobbit"
+      ],
+      "fullName": "Ian McKellen",
+      "birthYear": "1939",
+      "nationality": "UK",
+      "image": "https://cdn10.bigcommerce.com/s-x8dfmo/products/5074/images/28131/Ian-McKellen-in-X-Men-Premium-Photograph-and-Poster-1016864__68726.1432422837.1280.1280.jpg?c=2"
+    },
+    {
+      "id": "9",
+      "movies": [
+        "The Dark Knight",
+        "American Psycho",
+        "The Prestige"
+      ],
+      "fullName": "Christian Bale",
+      "birthYear": "1974",
+      "nationality": "UK",
+      "image": "https://i.pinimg.com/474x/b5/e4/5c/b5e45c02ebc45ddebc09eef1dbc261a6.jpg"
+    },
+    {
+      "id": "10",
+      "movies": [
+        "Forrest Gump",
+        "Cast Away",
+        "Saving Private Ryan"
+      ],
+      "fullName": "Tom Hanks",
+      "birthYear": "1956",
+      "nationality": "USA",
+      "image": "https://t1.pixers.pics/img-1fb6f67c/posters-tom-hanks.jpg?H4sIAAAAAAAAA3WOS27EIBBEr4Ml7G5svr7B7OYGFgY8ceIPAiYZ5fTBirKMetFVLVXXg-eR7RLAhaOEBPvq_RZgWbfq8phCXr8DQSqEbMZ63QgiNuP5GZJLZyQtGyRtRU9Fz6lE3YxftiZ3mz7IWykxjwB56OL6qu_qchncnqFHpgA1CKONEY5zj85Psc3FHt4m33J8Sezi8aB4TfNHohCpughKWndSkc7aVch7fDTwT9-vhpqC-w0YA33p6X5jTE-9nRlz0nMvrJCzwGB9QMmNkkMQkk1iVnZWM5pFezl1PylnbEUvAQAA"
+    }
+  ],
+  "directors": [
+    {
+      "id": "1",
+      "movies": [
+        "Indiana Jones",
+        "Schindler's List",
+        "Saving Private Ryan"
+      ],
+      "fullName": "Steven Spielberg",
+      "birthYear": "1946",
+      "nationality": "USA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ready_Player_One_Japan_Premiere_Red_Carpet_Steven_Spielberg_%2841604920761%29_%28cropped%29.jpg/240px-Ready_Player_One_Japan_Premiere_Red_Carpet_Steven_Spielberg_%2841604920761%29_%28cropped%29.jpg"
+    },
+    {
+      "id": "2",
+      "movies": [
+        "Alien",
+        "Gladiator",
+        "Robin Hood"
+      ],
+      "fullName": "Ridley Scott",
+      "birthYear": "1937",
+      "nationality": "UK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ridley_Scott_%2823716888011%29.jpg/250px-Ridley_Scott_%2823716888011%29.jpg"
+    },
+    {
+      "id": "3",
+      "movies": [
+        "Rambo",
+        "Terminator",
+        "Avatar"
+      ],
+      "fullName": "James Cameron",
+      "birthYear": "1954",
+      "nationality": "Canada",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/James_Cameron_by_Gage_Skidmore.jpg/240px-James_Cameron_by_Gage_Skidmore.jpg"
+    },
+    {
+      "id": "4",
+      "movies": [
+        "The Dark Knight",
+        "Inception",
+        "Interstellar"
+      ],
+      "fullName": "Christopher Nolan",
+      "birthYear": "1970",
+      "nationality": "UK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Christopher_Nolan%2C_London%2C_2013_%28crop%29.jpg/250px-Christopher_Nolan%2C_London%2C_2013_%28crop%29.jpg"
+    },
+    {
+      "id": "5",
+      "movies": [
+        "The Grand Budapest Hotel",
+        "Moonrise Kingdom",
+        "Fantastic Mr. Fox"
+      ],
+      "fullName": "Wes Anderson",
+      "birthYear": "1969",
+      "nationality": "USA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wes_Anderson-20140206-85.jpg/250px-Wes_Anderson-20140206-85.jpg"
+    },
+    {
+      "id": "6",
+      "movies": [
+        "The Lord of the Rings",
+        "King Kong",
+        "The Hobbit"
+      ],
+      "fullName": "Peter Jackson",
+      "birthYear": "1961",
+      "nationality": "New Zealand",
+      "image": "https://images.prom.ua/5852232747_w600_h600_5852232747.jpg"
+    },
+    {
+      "id": "7",
+      "movies": [
+        "The Godfather",
+        "Apocalypse Now",
+        "The Conversation"
+      ],
+      "fullName": "Francis Ford Coppola",
+      "birthYear": "1939",
+      "nationality": "USA",
+      "image": "https://cdn.prod.www.spiegel.de/images/6918c280-d78f-431c-b7bf-8c4632497c06_w256_r1_fpx55.29_fpy46.97.jpg"
+    },
+    {
+      "id": "8",
+      "movies": [
+        "Titanic",
+        "Avatar",
+        "Terminator 2"
+      ],
+      "fullName": "James Cameron",
+      "birthYear": "1954",
+      "nationality": "Canada",
+      "image": "https://news.artnet.com/app/news-upload/2021/11/GettyImages-1152264124-256x256.jpg"
+    },
+    {
+      "id": "9",
+      "movies": [
+        "Once Upon a Time in Hollywood",
+        "Pulp Fiction",
+        "Inglourious Basterds"
+      ],
+      "fullName": "Quentin Tarantino",
+      "birthYear": "1963",
+      "nationality": "USA",
+      "image": "https://posterdrops-images.s3.amazonaws.com/uploads/director/middle/171_20231004_200853.webp"
+    },
+    {
+      "id": "10",
+      "movies": [
+        "Star Wars",
+        "THX 1138",
+        "American Graffiti"
+      ],
+      "fullName": "George Lucas",
+      "birthYear": "1944",
+      "nationality": "USA",
+      "image": "https://image.enjoymovie.net/ddKRRDC_5c45N6ybFbAHAswJ1ps=/256x256/smart/core/p/-kwg8xldAR.jpg"
+    },
+    {
+      "id": 1730379648026,
+      "movies": [
+        "ааа"
+      ],
+      "fullName": "fffff",
+      "birthYear": 1909,
+      "nationality": "United Kingdom",
+      "image": "ffff"
+    }
+  ],
+  "movies": [
+    {
+      "id": "1",
+      "title": "Indiana Jones",
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "actors": [
+        "Harrison Ford"
+      ],
+      "studios": [
+        "Lucasfilm Ltd. LLC"
+      ],
+      "poster": "https://cdn.europosters.eu/image/1300/%D0%9F%D0%BB%D0%B0%D0%BA%D0%B0%D1%82%D0%B8/indiana-jones-kingdom-of-the-i13412.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Batman",
+      "directors": [
+        "Tim Burton"
+      ],
+      "actors": [
+        "Michael Keaton",
+        "Jack Nicholson"
+      ],
+      "studios": [
+        "Warner Bros."
+      ],
+      "poster": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/33791/square_thumb%402x.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Home Alone",
+      "directors": [
+        "Chris Columbus"
+      ],
+      "actors": [
+        "Macaulay Culkin",
+        "Joe Pesci"
+      ],
+      "studios": [
+        "20th Century Studios, Inc."
+      ],
+      "poster": "https://media.plus.rtl.de/music-deezer/cover/4149242a41a6ed4390bfa9819c72949d/256x256-000000-80-0-0.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Aliens",
+      "directors": [
+        "James Cameron"
+      ],
+      "actors": [
+        "Sigourney Weaver"
+      ],
+      "studios": [
+        "20th Century Studios, Inc."
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/ru/f/fb/Aliens_poster.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Pirates of the Caribbean",
+      "directors": [
+        "Gore Verbinski"
+      ],
+      "actors": [
+        "Johnny Depp",
+        "Orlando Bloom"
+      ],
+      "studios": [
+        "Walt Disney Pictures"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/ru/7/79/Pirates-of-the-Caribbean-The-Curse-of-the-Black-Pearl-.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Inception",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "actors": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt"
+      ],
+      "studios": [
+        "Warner Bros."
+      ],
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjzcjsVVLdvd_LoWY0eMt8XrQUhcFbPU687g&s"
+    },
+    {
+      "id": "7",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "directors": [
+        "Peter Jackson"
+      ],
+      "actors": [
+        "Elijah Wood",
+        "Ian McKellen"
+      ],
+      "studios": [
+        "New Line Cinema"
+      ],
+      "poster": "https://www.hiveworkshop.com/data/ratory-images/2/2512-311251009dad640bea82a457e850cd2d.jpg"
+    },
+    {
+      "id": "8",
+      "title": "The Godfather",
+      "directors": [
+        "Francis Ford Coppola"
+      ],
+      "actors": [
+        "Marlon Brando",
+        "Al Pacino"
+      ],
+      "studios": [
+        "Paramount Pictures"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Jurassic Park",
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "actors": [
+        "Sam Neill",
+        "Laura Dern"
+      ],
+      "studios": [
+        "Universal Pictures"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/e/e7/Jurassic_Park_poster.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Forrest Gump",
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "actors": [
+        "Tom Hanks",
+        "Robin Wright"
+      ],
+      "studios": [
+        "Paramount Pictures"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg"
+    }
+  ],
+  "studios": [
+    {
+      "id": "1",
+      "title": "Lucasfilm Ltd. LLC",
+      "location": "San Francisco",
+      "founded": "1971",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lucasfilm_logo.svg/250px-Lucasfilm_logo.svg.png",
+      "notableFilms": "Star Wars, Indiana Jones",
+      "awards": "Academy Awards, BAFTA Awards",
+      "typesOfProduction": "Film, Television",
+      "collaborations": "Disney, Industrial Light & Magic"
+    },
+    {
+      "id": "2",
+      "title": "20th Century Studios, Inc.",
+      "location": "Los Angeles",
+      "founded": "1935",
+      "logo": "https://upload.wikimedia.org/wikipedia/ru/thumb/5/5e/20th_Century_Studios.svg/250px-20th_Century_Studios.svg.png",
+      "notableFilms": "Avatar, Titanic",
+      "awards": "Academy Awards, Golden Globe Awards",
+      "typesOfProduction": "Film, Television",
+      "collaborations": "Fox, Disney"
+    },
+    {
+      "id": "3",
+      "title": "Walt Disney Pictures",
+      "location": "Burbank",
+      "founded": "1923",
+      "logo": "https://www.conservapedia.com/images/thumb/2/2f/656px-The_WaltDisney_Company-Logo.png/250px-656px-The_WaltDisney_Company-Logo.png",
+      "notableFilms": "The Lion King, Frozen",
+      "awards": "Academy Awards, Annie Awards",
+      "typesOfProduction": "Film, Television, Animation",
+      "collaborations": "Pixar, Marvel"
+    },
+    {
+      "id": "4",
+      "title": "Warner Bros.",
+      "location": "Burbank",
+      "founded": "1923",
+      "logo": "https://cdn.ruwiki.ru/commonswiki/files/thumb/5/53/Warner_Bros_Interactive_Entertainment_2019.png/250px-Warner_Bros_Interactive_Entertainment_2019.png",
+      "notableFilms": "Harry Potter, The Dark Knight",
+      "awards": "Academy Awards, Golden Globe Awards",
+      "typesOfProduction": "Film, Television, Animation",
+      "collaborations": "DC Comics, HBO"
+    },
+    {
+      "id": "5",
+      "title": "Universal Pictures",
+      "location": "Universal City",
+      "founded": "1912",
+      "logo": "https://upload.wikimedia.org/wikipedia/uk/thumb/8/83/Universal_Studios_%D0%BB%D0%BE%D0%B3%D0%BE.jpg/250px-Universal_Studios_%D0%BB%D0%BE%D0%B3%D0%BE.jpg",
+      "notableFilms": "Jurassic Park, E.T.",
+      "awards": "Academy Awards, BAFTA Awards",
+      "typesOfProduction": "Film, Television",
+      "collaborations": "Focus Features, Illumination Entertainment"
+    },
+    {
+      "id": "6",
+      "title": "Paramount Pictures",
+      "location": "Los Angeles",
+      "founded": "1912",
+      "logo": "https://pbs.twimg.com/profile_images/1686797997362065408/zP_xHXQI_400x400.jpg",
+      "notableFilms": "Transformers, Mission: Impossible",
+      "awards": "Academy Awards, Golden Globe Awards",
+      "typesOfProduction": "Film, Television",
+      "collaborations": "Nickelodeon, DreamWorks"
+    },
+    {
+      "id": "7",
+      "title": "New Line Cinema",
+      "location": "Burbank",
+      "founded": "1967",
+      "logo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/01093dcf-3500-4866-b84d-fb3c90fa9cfc/dhgp7t8-c784460f-d089-420d-bf10-e2be4fa67aa6.png/v1/fill/w_484,h_267/new_line_cinema_2024_logo_texture_one_by_mfdanhstudiosart_dhgp7t8-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjY3IiwicGF0aCI6IlwvZlwvMDEwOTNkY2YtMzUwMC00ODY2LWI4NGQtZmIzYzkwZmE5Y2ZjXC9kaGdwN3Q4LWM3ODQ0NjBmLWQwODktNDIwZC1iZjEwLWUyYmU0ZmE2N2FhNi5wbmciLCJ3aWR0aCI6Ijw9NDg0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.G-uTJy5Q4XmjqKdpwtRCHriDO9sxVwHkTXJGEQ7Tkmc",
+      "notableFilms": "The Conjuring, A Nightmare on Elm Street",
+      "awards": "Academy Awards, Teen Choice Awards",
+      "typesOfProduction": "Film",
+      "collaborations": "Warner Bros."
+    },
+    {
+      "id": "8",
+      "title": "Columbia Pictures",
+      "location": "Culver City",
+      "founded": "1924",
+      "logo": "https://i.ytimg.com/vi/-p4q2WRfwDc/oar2.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLA-hpgOTxZp0INyAZUzM4CW56mKNQ",
+      "notableFilms": "Men in Black, Spider-Man",
+      "awards": "Academy Awards, BAFTA Awards",
+      "typesOfProduction": "Film, Television",
+      "collaborations": "Sony Pictures"
+    },
+    {
+      "id": "9",
+      "title": "MGM Studios",
+      "location": "Beverly Hills",
+      "founded": "1924",
+      "logo": "https://www.mgmaudio.ch/web/image/website/1/favicon?unique=ca1fd6d",
+      "notableFilms": "The Wizard of Oz, James Bond series",
+      "awards": "Academy Awards, Golden Globe Awards",
+      "typesOfProduction": "Film, Television",
+      "collaborations": "United Artists"
+    },
+    {
+      "id": "10",
+      "title": "TriStar Pictures",
+      "location": "Los Angeles",
+      "founded": "1982",
+      "logo": "https://upload.wikimedia.org/wikipedia/uk/b/b4/TriStar_Pictures.jpg",
+      "notableFilms": "The Silence of the Lambs, Jerry Maguire",
+      "awards": "Academy Awards, BAFTA Awards",
+      "typesOfProduction": "Film, Television",
+      "collaborations": "Sony Pictures"
+    }
+  ]
+}

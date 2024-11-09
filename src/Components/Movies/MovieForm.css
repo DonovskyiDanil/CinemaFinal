@@ -1,0 +1,76 @@
+#form {
+  width: 100%; 
+  max-width: 100%; 
+  margin: auto;
+  padding: 20px; 
+  background-color: transparent;
+  font-size: 16px;
+}
+
+.label {
+  color: black;
+  font-weight: bold;
+  font-size: 30px; 
+  width: 100px;
+}
+
+textarea[name='poster'], input {
+  background-color: rgb(0, 255, 221);
+  border: 1px solid white;
+  border-radius: 4px;
+  width: 90%; 
+  font-size: 13px;
+  padding: 10px;
+}
+
+.legend {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.items-container {
+  margin-bottom: 10px;
+}
+
+.error-message {
+  color: red;
+  font-size: 15px;
+  margin-top: 5px; 
+  text-align: left; 
+  width: 110%; 
+}
+
+
+.MuiButton-root {
+  background-color: aquablue; 
+}
+
+.form-container {
+  width: 100%;
+  width: 450px; 
+  margin: 0 auto;
+}
+
+.stack-row {
+  display: flex;
+  gap: 10px;
+}
+
+.short-input {
+  width: 62%; 
+}
+
+.long-input {
+  width: 90%; 
+}
+
+textarea.full-width {
+  height: 100px;
+  max-width: 100%;
+}
+
+.full-width input {
+  padding: 5px;
+  height: 30px;
+  font-size: 12px;
+}

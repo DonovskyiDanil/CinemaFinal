@@ -1,0 +1,85 @@
+.actor-form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 65vh;
+}
+
+.actor-form-field {
+    width: 100%;
+    max-width: 450px;
+    padding: 10px;
+    font-size: 13px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.actor-form-field input {
+    padding: 5px;
+    height: 30px;
+    font-size: 15px;
+}
+
+.actor-form-field textarea {
+    padding: 10px; 
+    height: 80px; 
+    font-size: 15px;
+    border: 1px solid #ccc; 
+}
+
+.actor-form-btn {
+    background-color: #1976d2;
+    margin: 10px;
+    padding: 10px 30px;
+}
+
+.actor-form-btn:hover {
+    background-color: #1565c0;
+}
+
+.actor-label {
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+}
+
+.actor-error {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.actor-field-container {
+    margin-top: 20px;
+}
+
+.actor-items-container {
+    margin: 20px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    max-width: 470px;
+}
+
+.actor-items-container .actor-form-field:first-child {
+    width: 60%;
+}
+
+.actor-items-container legend {
+    font-weight: bold;
+}
+
+.actor-image-textarea {
+    width: 100%; 
+    max-width: 420px; 
+    height: 80px; 
+    padding: 10px; 
+    border-radius: 5px; 
+    border: 1px solid white; 
+    background-color: aqua; 
+    margin-left: 10px; 
+    resize: none; 
+}

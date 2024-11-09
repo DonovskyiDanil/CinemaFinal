@@ -1,0 +1,97 @@
+.director-form-container {
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center; 
+    height: 65vh;
+}
+
+.director-form-field {
+    width: 100%; 
+    max-width: 450px; 
+    padding: 10px;
+    font-size: 13px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.director-form-field input {
+    padding: 5px; 
+    height: 30px; 
+    font-size: 15px; 
+}
+
+.director-form-field textarea {
+    padding: 5px;
+    height: 30px; 
+    font-size: 15px; 
+}
+
+.director-form-btn {
+    background-color: #1976d2;
+    color: white;
+    margin: 10px;
+    padding: 10px 30px;
+}
+
+.director-form-btn:hover {
+    background-color: #1565c0;
+}
+
+.director-label {
+    font-size: 13px;
+    font-weight: bold;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    white-space: nowrap; 
+}
+
+.director-error {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.director-field-container {
+    margin-top: 20px;
+}
+
+.director-items-container {
+    margin: 20px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    max-width: 470px;
+}
+.director-items-container .director-form-field:first-child {
+    width: 60%; 
+}
+
+.director-items-container legend {
+    font-weight: bold;
+}
+
+.director-image-textarea {
+    width: 440px; 
+    max-width: 450px;
+    height: 80px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: aqua; 
+    margin-left: 10px;
+}
+.director-form-title {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px; 
+}
+.error-message {
+    color: red;
+    font-size: 20px; 
+    font-weight: bold; 
+    margin-top: 5px; 
+    text-align: left; 
+}
